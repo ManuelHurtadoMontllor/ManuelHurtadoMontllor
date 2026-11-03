@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Manuel 👋</h1>
 
-<!--
-**ManuelHurtadoMontllor/ManuelHurtadoMontllor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Estudiante+de+DAW;Front-end+y+diseño+de+interfaces;Buscando+prácticas+en+2027¢er=true&width=480" alt="Texto animado de presentación">
+</p>
 
-Here are some ideas to get you started:
+Estudio 2.º de DAW en Madrid. 
+🌐 **Portfolio:** [lucia-dev.github.io](https://lucia-dev.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,git,java,mysql" alt="Tecnologías que uso">
+</p>
+
+### Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/...)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C4BDB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucia-dev.github.io)
