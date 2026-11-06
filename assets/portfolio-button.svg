@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="72" viewBox="0 0 300 72" role="img" aria-labelledby="title description">
+  <title id="title">Visita mi portfolio</title>
+  <desc id="description">Botón elevado con estilo neumórfico oscuro.</desc>
+  <defs>
+    <filter id="raised" x="-10%" y="-25%" width="120%" height="150%">
+      <feDropShadow dx="4" dy="4" stdDeviation="4" flood-color="#111722" flood-opacity="0.95"/>
+      <feDropShadow dx="-4" dy="-4" stdDeviation="4" flood-color="#354153" flood-opacity="0.75"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="284" height="56" rx="18" fill="#222b3a" filter="url(#raised)"/>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="150" y="31" fill="#9bb3ff" font-size="12" font-weight="700" letter-spacing="1.4">PORTFOLIO</text>
+    <text x="150" y="50" fill="#f1f4fa" font-size="16" font-weight="600">🚀 Visita mi portfolio</text>
+  </g>
+</svg>

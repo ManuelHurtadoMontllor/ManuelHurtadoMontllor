@@ -3,7 +3,7 @@
   <p>Estudiante de 2.º de DAM en Madrid</p>
   <p>
     <a href="https://manuelhurtadomontllor.github.io/portfolio/index.html" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visita%20mi%20portfolio-2C4BDB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visita mi portfolio" />
+      <img src="assets/portfolio-button.svg" alt="Visita mi portfolio" width="200" />
     </a>
   </p>
 </div>
