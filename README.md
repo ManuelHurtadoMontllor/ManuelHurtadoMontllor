@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/profile-cards.svg" alt="Sobre mí: estudiante de DAM en Madrid. Tecnologías: HTML, CSS, JavaScript, Bootstrap, Tailwind, Java, Python, MySQL y Git. Proyectos disponibles en el portfolio. Contacto por LinkedIn." width="100%" />
+  <img src="assets/profile-cards-dark.svg" alt="Sobre mí: estudiante de DAM en Madrid. Tecnologías: HTML, CSS, JavaScript, Bootstrap, Tailwind, Java, Python, MySQL y Git. Proyectos disponibles en el portfolio. Contacto por LinkedIn." width="100%" />
 </p>
 
 <p align="center">

@@ -1,48 +1,55 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-labelledby="title description">
-  <title id="title">Perfil de Manuel</title>
-  <desc id="description">Tarjetas con información sobre Manuel, sus tecnologías, proyectos y contacto.</desc>
+  <title id="title">Perfil de Manuel con estilo neumórfico</title>
+  <desc id="description">Tarjetas con relieve suave sobre un fondo azul grisáceo: sobre mí, tecnologías, proyectos y contacto.</desc>
+  <defs>
+    <filter id="raised" x="-10%" y="-15%" width="120%" height="135%">
+      <feDropShadow dx="7" dy="7" stdDeviation="9" flood-color="#b8c2d0" flood-opacity="0.9"/>
+      <feDropShadow dx="-7" dy="-7" stdDeviation="9" flood-color="#ffffff" flood-opacity="0.95"/>
+    </filter>
+    <filter id="pill" x="-15%" y="-25%" width="130%" height="150%">
+      <feDropShadow dx="3" dy="3" stdDeviation="3" flood-color="#bac4d2" flood-opacity="0.8"/>
+      <feDropShadow dx="-3" dy="-3" stdDeviation="3" flood-color="#ffffff" flood-opacity="0.9"/>
+    </filter>
+  </defs>
+  <rect width="900" height="900" rx="28" fill="#e6ebf2"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <rect x="12" y="12" width="876" height="156" rx="22" fill="#151d2e" stroke="#34415b" stroke-width="2"/>
-    <rect x="12" y="12" width="7" height="156" rx="3" fill="#6c8cff"/>
-    <text x="44" y="58" fill="#9bb3ff" font-size="17" font-weight="700" letter-spacing="1.5">SOBRE MÍ</text>
-    <text x="44" y="96" fill="#f3f6fc" font-size="22" font-weight="600">Estudiante de Desarrollo de Aplicaciones Multiplataforma</text>
-    <text x="44" y="130" fill="#b7c1d4" font-size="18">Estudio DAM en Madrid y aprendo desarrollo web, programación y bases de datos.</text>
+    <rect x="28" y="28" width="844" height="148" rx="28" fill="#e6ebf2" filter="url(#raised)"/>
+    <text x="58" y="72" fill="#6176a8" font-size="17" font-weight="700" letter-spacing="1.5">SOBRE MÍ</text>
+    <text x="58" y="109" fill="#293449" font-size="22" font-weight="700">Estudiante de Desarrollo de Aplicaciones Multiplataforma</text>
+    <text x="58" y="142" fill="#596579" font-size="18">Estudio DAM en Madrid y aprendo desarrollo web, programación y bases de datos.</text>
 
-    <rect x="12" y="188" width="876" height="330" rx="22" fill="#151d2e" stroke="#34415b" stroke-width="2"/>
-    <rect x="12" y="188" width="7" height="330" rx="3" fill="#6c8cff"/>
-    <text x="44" y="235" fill="#9bb3ff" font-size="17" font-weight="700" letter-spacing="1.5">TECNOLOGÍAS</text>
-    <text x="44" y="278" fill="#f3f6fc" font-size="18" font-weight="600">Frontend</text>
-    <g fill="#222e45" stroke="#3a4b6a">
-      <rect x="44" y="294" width="83" height="38" rx="12"/><rect x="137" y="294" width="72" height="38" rx="12"/>
-      <rect x="219" y="294" width="91" height="38" rx="12"/><rect x="320" y="294" width="115" height="38" rx="12"/>
-      <rect x="445" y="294" width="112" height="38" rx="12"/>
+    <rect x="28" y="198" width="844" height="350" rx="28" fill="#e6ebf2" filter="url(#raised)"/>
+    <text x="58" y="245" fill="#6176a8" font-size="17" font-weight="700" letter-spacing="1.5">TECNOLOGÍAS</text>
+    <text x="58" y="285" fill="#293449" font-size="18" font-weight="700">Frontend</text>
+    <g fill="#e6ebf2" filter="url(#pill)">
+      <rect x="58" y="301" width="83" height="38" rx="13"/><rect x="151" y="301" width="72" height="38" rx="13"/>
+      <rect x="233" y="301" width="91" height="38" rx="13"/><rect x="334" y="301" width="115" height="38" rx="13"/>
+      <rect x="459" y="301" width="112" height="38" rx="13"/>
     </g>
-    <g fill="#dbe5f5" font-size="15" font-weight="600" text-anchor="middle">
-      <text x="85" y="319">HTML</text><text x="173" y="319">CSS</text><text x="264" y="319">JavaScript</text>
-      <text x="377" y="319">Bootstrap</text><text x="501" y="319">Tailwind</text>
+    <g fill="#46546c" font-size="15" font-weight="600" text-anchor="middle">
+      <text x="99" y="326">HTML</text><text x="187" y="326">CSS</text><text x="278" y="326">JavaScript</text>
+      <text x="391" y="326">Bootstrap</text><text x="515" y="326">Tailwind</text>
     </g>
-    <text x="44" y="376" fill="#f3f6fc" font-size="18" font-weight="600">Programación y bases de datos</text>
-    <g fill="#222e45" stroke="#3a4b6a">
-      <rect x="44" y="392" width="72" height="38" rx="12"/><rect x="126" y="392" width="82" height="38" rx="12"/>
-      <rect x="218" y="392" width="76" height="38" rx="12"/>
+    <text x="58" y="386" fill="#293449" font-size="18" font-weight="700">Programación y bases de datos</text>
+    <g fill="#e6ebf2" filter="url(#pill)">
+      <rect x="58" y="402" width="72" height="38" rx="13"/><rect x="140" y="402" width="82" height="38" rx="13"/>
+      <rect x="232" y="402" width="76" height="38" rx="13"/>
     </g>
-    <g fill="#dbe5f5" font-size="15" font-weight="600" text-anchor="middle">
-      <text x="80" y="417">Java</text><text x="167" y="417">Python</text><text x="256" y="417">MySQL</text>
+    <g fill="#46546c" font-size="15" font-weight="600" text-anchor="middle">
+      <text x="94" y="427">Java</text><text x="181" y="427">Python</text><text x="270" y="427">MySQL</text>
     </g>
-    <text x="44" y="474" fill="#f3f6fc" font-size="18" font-weight="600">Herramientas</text>
-    <rect x="44" y="484" width="65" height="26" rx="10" fill="#222e45" stroke="#3a4b6a"/>
-    <text x="76" y="502" fill="#dbe5f5" font-size="14" font-weight="600" text-anchor="middle">Git</text>
+    <text x="58" y="484" fill="#293449" font-size="18" font-weight="700">Herramientas</text>
+    <rect x="58" y="495" width="65" height="26" rx="10" fill="#e6ebf2" filter="url(#pill)"/>
+    <text x="90" y="513" fill="#46546c" font-size="14" font-weight="600" text-anchor="middle">Git</text>
 
-    <rect x="12" y="538" width="876" height="146" rx="22" fill="#151d2e" stroke="#34415b" stroke-width="2"/>
-    <rect x="12" y="538" width="7" height="146" rx="3" fill="#6c8cff"/>
-    <text x="44" y="584" fill="#9bb3ff" font-size="17" font-weight="700" letter-spacing="1.5">PROYECTOS</text>
-    <text x="44" y="624" fill="#f3f6fc" font-size="21" font-weight="600">Descubre lo que estoy creando</text>
-    <text x="44" y="654" fill="#b7c1d4" font-size="17">Explora mis proyectos desde el portfolio enlazado arriba.</text>
+    <rect x="28" y="570" width="844" height="142" rx="28" fill="#e6ebf2" filter="url(#raised)"/>
+    <text x="58" y="616" fill="#6176a8" font-size="17" font-weight="700" letter-spacing="1.5">PROYECTOS</text>
+    <text x="58" y="655" fill="#293449" font-size="21" font-weight="700">Descubre lo que estoy creando</text>
+    <text x="58" y="685" fill="#596579" font-size="17">Explora mis proyectos desde el portfolio enlazado arriba.</text>
 
-    <rect x="12" y="704" width="876" height="170" rx="22" fill="#151d2e" stroke="#34415b" stroke-width="2"/>
-    <rect x="12" y="704" width="7" height="170" rx="3" fill="#6c8cff"/>
-    <text x="44" y="750" fill="#9bb3ff" font-size="17" font-weight="700" letter-spacing="1.5">CONTACTO</text>
-    <text x="44" y="791" fill="#f3f6fc" font-size="21" font-weight="600">Conectemos en LinkedIn</text>
-    <text x="44" y="823" fill="#b7c1d4" font-size="17">Puedes encontrarme en el enlace de LinkedIn debajo de las tarjetas.</text>
+    <rect x="28" y="734" width="844" height="148" rx="28" fill="#e6ebf2" filter="url(#raised)"/>
+    <text x="58" y="780" fill="#6176a8" font-size="17" font-weight="700" letter-spacing="1.5">CONTACTO</text>
+    <text x="58" y="820" fill="#293449" font-size="21" font-weight="700">Conectemos en LinkedIn</text>
+    <text x="58" y="850" fill="#596579" font-size="17">Puedes encontrarme en el enlace de LinkedIn debajo de las tarjetas.</text>
   </g>
 </svg>

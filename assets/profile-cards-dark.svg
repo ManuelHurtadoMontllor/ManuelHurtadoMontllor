@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-labelledby="title description">
+  <title id="title">Perfil de Manuel con estilo neumórfico oscuro</title>
+  <desc id="description">Tarjetas oscuras con relieve suave: sobre mí, tecnologías, proyectos y contacto.</desc>
+  <defs>
+    <filter id="raised" x="-10%" y="-15%" width="120%" height="135%">
+      <feDropShadow dx="7" dy="7" stdDeviation="9" flood-color="#111722" flood-opacity="0.95"/>
+      <feDropShadow dx="-7" dy="-7" stdDeviation="9" flood-color="#354153" flood-opacity="0.75"/>
+    </filter>
+    <filter id="pill" x="-15%" y="-25%" width="130%" height="150%">
+      <feDropShadow dx="3" dy="3" stdDeviation="3" flood-color="#111722" flood-opacity="0.9"/>
+      <feDropShadow dx="-3" dy="-3" stdDeviation="3" flood-color="#354153" flood-opacity="0.75"/>
+    </filter>
+  </defs>
+  <rect width="900" height="900" rx="28" fill="#222b3a"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="28" y="28" width="844" height="148" rx="28" fill="#222b3a" filter="url(#raised)"/>
+    <text x="58" y="72" fill="#9bb3ff" font-size="17" font-weight="700" letter-spacing="1.5">SOBRE MÍ</text>
+    <text x="58" y="109" fill="#f1f4fa" font-size="22" font-weight="700">Estudiante de Desarrollo de Aplicaciones Multiplataforma</text>
+    <text x="58" y="142" fill="#c0cada" font-size="18">Estudio DAM en Madrid y aprendo desarrollo web, programación y bases de datos.</text>
+
+    <rect x="28" y="198" width="844" height="350" rx="28" fill="#222b3a" filter="url(#raised)"/>
+    <text x="58" y="245" fill="#9bb3ff" font-size="17" font-weight="700" letter-spacing="1.5">TECNOLOGÍAS</text>
+    <text x="58" y="285" fill="#f1f4fa" font-size="18" font-weight="700">Frontend</text>
+    <g fill="#222b3a" filter="url(#pill)">
+      <rect x="58" y="301" width="83" height="38" rx="13"/><rect x="151" y="301" width="72" height="38" rx="13"/>
+      <rect x="233" y="301" width="91" height="38" rx="13"/><rect x="334" y="301" width="115" height="38" rx="13"/>
+      <rect x="459" y="301" width="112" height="38" rx="13"/>
+    </g>
+    <g fill="#d9e2f2" font-size="15" font-weight="600" text-anchor="middle">
+      <text x="99" y="326">HTML</text><text x="187" y="326">CSS</text><text x="278" y="326">JavaScript</text>
+      <text x="391" y="326">Bootstrap</text><text x="515" y="326">Tailwind</text>
+    </g>
+    <text x="58" y="386" fill="#f1f4fa" font-size="18" font-weight="700">Programación y bases de datos</text>
+    <g fill="#222b3a" filter="url(#pill)">
+      <rect x="58" y="402" width="72" height="38" rx="13"/><rect x="140" y="402" width="82" height="38" rx="13"/>
+      <rect x="232" y="402" width="76" height="38" rx="13"/>
+    </g>
+    <g fill="#d9e2f2" font-size="15" font-weight="600" text-anchor="middle">
+      <text x="94" y="427">Java</text><text x="181" y="427">Python</text><text x="270" y="427">MySQL</text>
+    </g>
+    <text x="58" y="484" fill="#f1f4fa" font-size="18" font-weight="700">Herramientas</text>
+    <rect x="58" y="495" width="65" height="26" rx="10" fill="#222b3a" filter="url(#pill)"/>
+    <text x="90" y="513" fill="#d9e2f2" font-size="14" font-weight="600" text-anchor="middle">Git</text>
+
+    <rect x="28" y="570" width="844" height="142" rx="28" fill="#222b3a" filter="url(#raised)"/>
+    <text x="58" y="616" fill="#9bb3ff" font-size="17" font-weight="700" letter-spacing="1.5">PROYECTOS</text>
+    <text x="58" y="655" fill="#f1f4fa" font-size="21" font-weight="700">Descubre lo que estoy creando</text>
+    <text x="58" y="685" fill="#c0cada" font-size="17">Explora mis proyectos desde el portfolio enlazado arriba.</text>
+
+    <rect x="28" y="734" width="844" height="148" rx="28" fill="#222b3a" filter="url(#raised)"/>
+    <text x="58" y="780" fill="#9bb3ff" font-size="17" font-weight="700" letter-spacing="1.5">CONTACTO</text>
+    <text x="58" y="820" fill="#f1f4fa" font-size="21" font-weight="700">Conectemos en LinkedIn</text>
+    <text x="58" y="850" fill="#c0cada" font-size="17">Puedes encontrarme en el enlace de LinkedIn debajo de las tarjetas.</text>
+  </g>
+</svg>
