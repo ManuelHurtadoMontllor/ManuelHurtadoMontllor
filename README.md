@@ -8,34 +8,39 @@
   </p>
 </div>
 
-## Sobre mí
-
-Estoy estudiando Desarrollo de Aplicaciones Multiplataforma y aprendiendo tecnologías de desarrollo web, programación y bases de datos.
-
-## Tecnologías
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="HTML, CSS, JavaScript, Bootstrap y Tailwind CSS" />
-</p>
-
-**Programación y bases de datos**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,mysql" alt="Java, Python y MySQL" />
-</p>
-
-**Herramientas**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-</p>
-
-## Proyectos
-
-Puedes ver mis proyectos y conocer más sobre mi trabajo en mi [portfolio](https://manuelhurtadomontllor.github.io/portfolio/index.html).
-
-## Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-hurtado-montllor/)
+<table>
+  <tr>
+    <td>
+      <h3>👨‍💻 Sobre mí</h3>
+      <p>Estudio Desarrollo de Aplicaciones Multiplataforma en Madrid y estoy aprendiendo tecnologías de desarrollo web, programación y bases de datos.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🛠️ Tecnologías</h3>
+      <p><strong>Frontend</strong><br>
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="HTML, CSS, JavaScript, Bootstrap y Tailwind CSS" />
+      </p>
+      <p><strong>Programación y bases de datos</strong><br>
+        <img src="https://skillicons.dev/icons?i=java,python,mysql" alt="Java, Python y MySQL" />
+      </p>
+      <p><strong>Herramientas</strong><br>
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🚀 Proyectos</h3>
+      <p>Descubre mis proyectos en mi <a href="https://manuelhurtadomontllor.github.io/portfolio/index.html">portfolio</a>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📬 Contacto</h3>
+      <a href="https://www.linkedin.com/in/manuel-hurtado-montllor/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+</table>
