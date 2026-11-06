@@ -1,23 +1,41 @@
-<h1 align="center">Hola, soy Manuel 👋</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Estudiante+de+DAM;Front-end%2C+back-end+y+androidStudio" alt="Typing SVG" /></a>
-</p>
-
-Estudio 2.º de DAM en Madrid. 
-
 <div align="center">
-  <a href="https://manuelhurtadomontllor.github.io/portfolio/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-🚀%20Ver%20mi%20portfolio-2C4BDB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Mi portfolio" width="260" />
-  </a>
+  <h1>Hola, soy Manuel 👋</h1>
+  <p>Estudiante de 2.º de DAM en Madrid</p>
+  <p>
+    <a href="https://manuelhurtadomontllor.github.io/portfolio/index.html" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visita%20mi%20portfolio-2C4BDB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visita mi portfolio" />
+    </a>
+  </p>
 </div>
 
-### Tecnologías
+## Sobre mí
+
+Estoy estudiando Desarrollo de Aplicaciones Multiplataforma y aprendiendo tecnologías de desarrollo web, programación y bases de datos.
+
+## Tecnologías
+
+**Frontend**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,git,java,mysql" alt="Tecnologías que uso">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="HTML, CSS, JavaScript, Bootstrap y Tailwind CSS" />
 </p>
 
-### Contacto
+**Programación y bases de datos**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql" alt="Java, Python y MySQL" />
+</p>
+
+**Herramientas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+</p>
+
+## Proyectos
+
+Puedes ver mis proyectos y conocer más sobre mi trabajo en mi [portfolio](https://manuelhurtadomontllor.github.io/portfolio/index.html).
+
+## Contacto
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-hurtado-montllor/)
-<!--
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C4BDB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucia-dev.github.io) -->
