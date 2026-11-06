@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-labelledby="title description">
+  <title id="title">Perfil de Manuel</title>
+  <desc id="description">Tarjetas con información sobre Manuel, sus tecnologías, proyectos y contacto.</desc>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="12" y="12" width="876" height="156" rx="22" fill="#151d2e" stroke="#34415b" stroke-width="2"/>
+    <rect x="12" y="12" width="7" height="156" rx="3" fill="#6c8cff"/>
+    <text x="44" y="58" fill="#9bb3ff" font-size="17" font-weight="700" letter-spacing="1.5">SOBRE MÍ</text>
+    <text x="44" y="96" fill="#f3f6fc" font-size="22" font-weight="600">Estudiante de Desarrollo de Aplicaciones Multiplataforma</text>
+    <text x="44" y="130" fill="#b7c1d4" font-size="18">Estudio DAM en Madrid y aprendo desarrollo web, programación y bases de datos.</text>
+
+    <rect x="12" y="188" width="876" height="330" rx="22" fill="#151d2e" stroke="#34415b" stroke-width="2"/>
+    <rect x="12" y="188" width="7" height="330" rx="3" fill="#6c8cff"/>
+    <text x="44" y="235" fill="#9bb3ff" font-size="17" font-weight="700" letter-spacing="1.5">TECNOLOGÍAS</text>
+    <text x="44" y="278" fill="#f3f6fc" font-size="18" font-weight="600">Frontend</text>
+    <g fill="#222e45" stroke="#3a4b6a">
+      <rect x="44" y="294" width="83" height="38" rx="12"/><rect x="137" y="294" width="72" height="38" rx="12"/>
+      <rect x="219" y="294" width="91" height="38" rx="12"/><rect x="320" y="294" width="115" height="38" rx="12"/>
+      <rect x="445" y="294" width="112" height="38" rx="12"/>
+    </g>
+    <g fill="#dbe5f5" font-size="15" font-weight="600" text-anchor="middle">
+      <text x="85" y="319">HTML</text><text x="173" y="319">CSS</text><text x="264" y="319">JavaScript</text>
+      <text x="377" y="319">Bootstrap</text><text x="501" y="319">Tailwind</text>
+    </g>
+    <text x="44" y="376" fill="#f3f6fc" font-size="18" font-weight="600">Programación y bases de datos</text>
+    <g fill="#222e45" stroke="#3a4b6a">
+      <rect x="44" y="392" width="72" height="38" rx="12"/><rect x="126" y="392" width="82" height="38" rx="12"/>
+      <rect x="218" y="392" width="76" height="38" rx="12"/>
+    </g>
+    <g fill="#dbe5f5" font-size="15" font-weight="600" text-anchor="middle">
+      <text x="80" y="417">Java</text><text x="167" y="417">Python</text><text x="256" y="417">MySQL</text>
+    </g>
+    <text x="44" y="474" fill="#f3f6fc" font-size="18" font-weight="600">Herramientas</text>
+    <rect x="44" y="484" width="65" height="26" rx="10" fill="#222e45" stroke="#3a4b6a"/>
+    <text x="76" y="502" fill="#dbe5f5" font-size="14" font-weight="600" text-anchor="middle">Git</text>
+
+    <rect x="12" y="538" width="876" height="146" rx="22" fill="#151d2e" stroke="#34415b" stroke-width="2"/>
+    <rect x="12" y="538" width="7" height="146" rx="3" fill="#6c8cff"/>
+    <text x="44" y="584" fill="#9bb3ff" font-size="17" font-weight="700" letter-spacing="1.5">PROYECTOS</text>
+    <text x="44" y="624" fill="#f3f6fc" font-size="21" font-weight="600">Descubre lo que estoy creando</text>
+    <text x="44" y="654" fill="#b7c1d4" font-size="17">Explora mis proyectos desde el portfolio enlazado arriba.</text>
+
+    <rect x="12" y="704" width="876" height="170" rx="22" fill="#151d2e" stroke="#34415b" stroke-width="2"/>
+    <rect x="12" y="704" width="7" height="170" rx="3" fill="#6c8cff"/>
+    <text x="44" y="750" fill="#9bb3ff" font-size="17" font-weight="700" letter-spacing="1.5">CONTACTO</text>
+    <text x="44" y="791" fill="#f3f6fc" font-size="21" font-weight="600">Conectemos en LinkedIn</text>
+    <text x="44" y="823" fill="#b7c1d4" font-size="17">Puedes encontrarme en el enlace de LinkedIn debajo de las tarjetas.</text>
+  </g>
+</svg>
